@@ -5,6 +5,7 @@
   "declared_unit": "one manufactured and packaged BC1 1 L plastic electric kettle at the factory gate",
   "bom_file": "kettle-bom.csv",
   "mapping_file": "mapping-decisions.csv",
+  "repository_url": "https://github.com/mh960328-gif/bc1-kettle-lca",
   "calculation_status": "not calculated",
   "impact_method": "unknown",
   "database_release": "USLCI 1.2026-09.0 selected for first-pass search; individual matches remain provisional",

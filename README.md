@@ -6,7 +6,7 @@
 
 - **Study title:** Cradle-to-gate LCA of one packaged BC1 1 L plastic electric kettle.
 - **Public student/group alias:** unknown; choose a non-identifying alias before publishing.
-- **Repository URL:** unknown; no GitHub repository has been created or linked yet.
+- **Public repository URL:** [https://github.com/mh960328-gif/bc1-kettle-lca](https://github.com/mh960328-gif/bc1-kettle-lca).
 - **Run identifier:** `kettle-bc1-independent-2026-10-08` (preparation record only).
 - **Study date:** 2026-10-08.
 - **Goal:** establish a reproducible baseline for the course's common declared unit, then compare one documented modeling choice in a later revised run.
@@ -114,11 +114,11 @@ Not calculated. There is no complete product system or impact result, and the ke
 
 ## 10. Independent and revised runs
 
-The current folder is an independent-run preparation area, but no full independent LCA output, Git commit or tag exists yet. Preserve this baseline before comparing with classmates. No revised run has been made; revision comparison is not applicable at this stage. Do not embed a future README commit hash in this file.
+The current folder is an independent-run preparation area with a public GitHub commit, but no full independent LCA output or Git tag exists yet. Preserve this baseline before comparing with classmates. No revised run has been made; revision comparison is not applicable at this stage. Do not embed this README's own commit hash in the file.
 
 ## Unresolved information to review before commit and push
 
-1. Public alias and public GitHub repository URL.
+1. Public alias is optional and has not been supplied; the public GitHub repository is available at the URL above.
 2. Stainless and nylon grades, plus geography and product reference year.
 3. Losses/yields, component conversion, assembly electricity, factory/inbound transport and scrap treatment.
 4. Accepted matches and provider closure for brass, copper, nylon, POM, PC, silicone, LDPE foil and finished carton.
@@ -128,5 +128,4 @@ The current folder is an independent-run preparation area, but no full independe
 8. Complete result, contribution, balance and double-counting checks, followed by uncertainty/sensitivity if feasible.
 9. Exact Codex model/settings if the UI exposes them, and a human-reviewed independent run before public submission.
 
-The final submission form requires the public repository URL and exact 40-character commit SHA after the public repository is created and pushed. The course submission code is an instructor-provided form code, not a GitHub/TianGong credential. See [`submission-checklist.md`](submission-checklist.md); personal name/email and the submission code are not stored in this project.
-
+The final submission form requires the public repository URL and exact 40-character SHA of the final pushed commit. Obtain it after the last project update with `git rev-parse HEAD`; do not embed the README's own future hash in this file. The course submission code is an instructor-provided form code, not a GitHub/TianGong credential. See [`submission-checklist.md`](submission-checklist.md); personal name/email and the submission code are not stored in this project.
