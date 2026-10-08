@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+/.pnpm-home/
+/.pnpm-store/
+/.npm-cache/
+/.local-runtime-profile/
+**/session.json
+**/session.json.lock
+data/raw/
+__pycache__/
+*.py[cod]

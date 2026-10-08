@@ -1,0 +1,13 @@
+material,scope,finished_mass_g,finished_mass_kg,purchase_mass_kg,yield_or_conversion_basis,status
+Stainless steel,Kettle,186,0.186,,unknown,finished BOM mass sourced; purchased mass not calculated
+Brass,Kettle,20.25,0.02025,,unknown,finished BOM mass sourced; purchased mass not calculated
+Copper,Kettle,15,0.015,,unknown,finished BOM mass sourced; purchased mass not calculated
+Polypropylene (PP),Kettle,350.25,0.35025,,unknown,finished BOM mass sourced; purchased mass not calculated
+Polyvinyl chloride (PVC),Kettle,43.5,0.0435,,unknown,finished BOM mass sourced; purchased mass not calculated
+"Nylon, grade unspecified",Kettle,49.5,0.0495,,unknown,finished BOM mass sourced; grade and purchased mass unknown
+Polyoxymethylene (POM),Kettle,9.75,0.00975,,unknown,finished BOM mass sourced; purchased mass not calculated
+Polycarbonate (PC),Kettle,6.75,0.00675,,unknown,finished BOM mass sourced; purchased mass not calculated
+Acrylonitrile-butadiene-styrene (ABS),Kettle,30,0.03,,unknown,finished BOM mass sourced; purchased mass not calculated
+Silicone,Kettle,12,0.012,,unknown,finished BOM mass sourced; purchased mass not calculated
+LDPE packaging foil,Packaging,6.3,0.0063,,unknown,finished BOM mass sourced; film-conversion yield unknown
+Cardboard packaging,Packaging,131.5,0.1315,,unknown,finished BOM mass sourced; carton flow match needs review

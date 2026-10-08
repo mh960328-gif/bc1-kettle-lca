@@ -1,0 +1,106 @@
+{
+  "calculation_type": "BOM mass-balance check only; no life-cycle impact calculated",
+  "material_count": 12,
+  "scope_totals_g": {
+    "Kettle": "723.00",
+    "Packaging": "137.8"
+  },
+  "scope_totals_kg": {
+    "Kettle": "0.723",
+    "Packaging": "0.1378"
+  },
+  "total_finished_mass_g": "860.80",
+  "total_finished_mass_kg": "0.8608",
+  "checks": {
+    "Kettle": {
+      "observed_g": "723.00",
+      "expected_g": "723.00",
+      "passed": true
+    },
+    "Packaging": {
+      "observed_g": "137.8",
+      "expected_g": "137.80",
+      "passed": true
+    },
+    "total": {
+      "observed_g": "860.80",
+      "expected_g": "860.80",
+      "passed": true
+    }
+  },
+  "all_mass_checks_passed": true,
+  "materials": [
+    {
+      "material": "Stainless steel",
+      "finished_mass_g": "186",
+      "finished_mass_kg": "0.186",
+      "scope": "Kettle"
+    },
+    {
+      "material": "Brass",
+      "finished_mass_g": "20.25",
+      "finished_mass_kg": "0.02025",
+      "scope": "Kettle"
+    },
+    {
+      "material": "Copper",
+      "finished_mass_g": "15",
+      "finished_mass_kg": "0.015",
+      "scope": "Kettle"
+    },
+    {
+      "material": "Polypropylene (PP)",
+      "finished_mass_g": "350.25",
+      "finished_mass_kg": "0.35025",
+      "scope": "Kettle"
+    },
+    {
+      "material": "Polyvinyl chloride (PVC)",
+      "finished_mass_g": "43.5",
+      "finished_mass_kg": "0.0435",
+      "scope": "Kettle"
+    },
+    {
+      "material": "Nylon, grade unspecified",
+      "finished_mass_g": "49.5",
+      "finished_mass_kg": "0.0495",
+      "scope": "Kettle"
+    },
+    {
+      "material": "Polyoxymethylene (POM)",
+      "finished_mass_g": "9.75",
+      "finished_mass_kg": "0.00975",
+      "scope": "Kettle"
+    },
+    {
+      "material": "Polycarbonate (PC)",
+      "finished_mass_g": "6.75",
+      "finished_mass_kg": "0.00675",
+      "scope": "Kettle"
+    },
+    {
+      "material": "Acrylonitrile-butadiene-styrene (ABS)",
+      "finished_mass_g": "30",
+      "finished_mass_kg": "0.03",
+      "scope": "Kettle"
+    },
+    {
+      "material": "Silicone",
+      "finished_mass_g": "12",
+      "finished_mass_kg": "0.012",
+      "scope": "Kettle"
+    },
+    {
+      "material": "LDPE packaging foil",
+      "finished_mass_g": "6.3",
+      "finished_mass_kg": "0.0063",
+      "scope": "Packaging"
+    },
+    {
+      "material": "Cardboard packaging",
+      "finished_mass_g": "131.5",
+      "finished_mass_kg": "0.1315",
+      "scope": "Packaging"
+    }
+  ]
+}

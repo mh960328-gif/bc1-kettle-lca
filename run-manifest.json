@@ -1,0 +1,13 @@
+{
+  "run_id": "kettle-bc1-independent-2026-10-08",
+  "run_type": "independent",
+  "study_date": "2026-10-08",
+  "declared_unit": "one manufactured and packaged BC1 1 L plastic electric kettle at the factory gate",
+  "bom_file": "kettle-bom.csv",
+  "mapping_file": "mapping-decisions.csv",
+  "calculation_status": "not calculated",
+  "impact_method": "unknown",
+  "database_release": "USLCI 1.2026-09.0 selected for first-pass search; individual matches remain provisional",
+  "git_tag": "not applicable; no independent-run commit or tag exists yet",
+  "notes": "This manifest records the current preparation state. It is not a calculated LCA result."
+}
